@@ -2,8 +2,15 @@
 
 <img src="https://efbravo.github.io/Personal/foto_carnet.PNG" style="float: left" width = 100 height = 100 description="Some more text that will appear to the left of the image.">
 
-{% include module.html image_path="https://efbravo.github.io/Personal/foto_carnet.PNG" title="Some title text" description="Some more text that will appear to the left of the image." %}
-
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="https://efbravo.github.io/Personal/foto_carnet.PNG" alt="">
+  </div>
+  <div>
+    <h2>Some title text</h2>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
 
 Insert intro sentence
 Welcome! I am Esther Fernández-Bravo, a current student at the **Master of Engineering in Industrial Engineering and Operations Research** at **UC Berkeley**. I also hold a **Master of Science and a Bachelor Degree in Industrial Engineering** from **Universidad Politécnica de Madrid (Spain).**
