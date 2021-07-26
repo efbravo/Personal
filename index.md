@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+<img src="https://efbravo.github.io/Personal/foto_carnet.PNG">
+
+Insert intro sentence
+Welcome! I am Esther Fernández-Bravo, a current student at the **Master of Engineering in Industrial Engineering and Operations Research** at **UC Berkeley**. I also hold a **Master of Science and a Bachelor Degree in Industrial Engineering** from **Universidad Politécnica de Madrid (Spain).**
+
+My main interests are ...
+
+Feel free to explore the website where you will find my complete resume and my latest projects. 
 
 You can use the [editor on GitHub](https://github.com/efbravo/Personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,10 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-<img src="https://raw.githubusercontent.com/efbravo/Personal/gh-pages/Blackwell_data_head.PNG" title = “title”>
-
-<img src="https://github.com/efbravo/Personal/blob/gh-pages/Blackwell_data_head.PNG">
 
 <img src="https://efbravo.github.io/Personal/Blackwell_data_head.PNG">
 
