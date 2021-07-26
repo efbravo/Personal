@@ -7,6 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+<img src="https://raw.githubusercontent.com/efbravo/Personal/gh-pages/Blackwell_data_head.PNG" width = 100 height = 100 title = “title”>
+
 ![Image]
 (/Blackwell_data_head.PNG)
 
