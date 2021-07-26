@@ -1,6 +1,6 @@
 ### Intro
 
-<img src="https://efbravo.github.io/Personal/foto_carnet.PNG">
+<img src="https://efbravo.github.io/Personal/foto_carnet.PNG" style="float: left">
 
 Insert intro sentence
 Welcome! I am Esther Fernández-Bravo, a current student at the **Master of Engineering in Industrial Engineering and Operations Research** at **UC Berkeley**. I also hold a **Master of Science and a Bachelor Degree in Industrial Engineering** from **Universidad Politécnica de Madrid (Spain).**
