@@ -4,7 +4,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="https://efbravo.github.io/Personal/foto_carnet.PNG" alt="">
+    <img src="https://efbravo.github.io/Personal/foto_carnet.PNG" alt="" width = 100 height = 100>
   </div>
   <div>
     <h2>Some title text</h2>
