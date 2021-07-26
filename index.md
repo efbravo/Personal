@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <img src="https://raw.githubusercontent.com/efbravo/Personal/gh-pages/Blackwell_data_head.PNG" title = “title”>
 
-<img src="https://github.com/efbravo/Personal/blob/gh-pages/Blackwell_data_head.PNG" title = “title”>
+<img src="https://github.com/efbravo/Personal/blob/gh-pages/Blackwell_data_head.PNG">
 
 
 ```markdown
