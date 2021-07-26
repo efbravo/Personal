@@ -5,7 +5,6 @@
     <img src="https://efbravo.github.io/Personal/foto_carnet.PNG" alt="" width = 100 height = 100>
   </div>
   <div>
-    <h2>Some title text</h2>
     <p>Some more text that will appear to the left of the image.</p>
   </div>
 </div>
