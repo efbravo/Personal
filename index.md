@@ -9,17 +9,7 @@
   </div>
 </div>
 
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>First try</title>
-  </head>
-  <body>
-    {% include module.html image_path="https://efbravo.github.io/Personal/foto_carnet.PNG" description="Some more text that will appear to the left of the image." %}
-  </body>
-</html>
-
-
+{% include module.html image_path="https://efbravo.github.io/Personal/foto_carnet.PNG" title="a" description="Some more text that will appear to the left of the image." %}
 
 Insert intro sentence
 Welcome! I am Esther Fernández-Bravo, a current student at the **Master of Engineering in Industrial Engineering and Operations Research** at **UC Berkeley**. I also hold a **Master of Science and a Bachelor Degree in Industrial Engineering** from **Universidad Politécnica de Madrid (Spain).**
