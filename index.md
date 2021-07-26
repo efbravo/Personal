@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <img src="https://github.com/efbravo/Personal/blob/gh-pages/Blackwell_data_head.PNG">
 
+<img src="https://efbravo.github.io/Personal/Blackwell_data_head.PNG">
+
+
 
 ```markdown
 Syntax highlighted code block
